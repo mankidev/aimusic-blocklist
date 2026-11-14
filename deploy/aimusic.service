@@ -7,7 +7,7 @@ After=network-online.target
 Type=oneshot
 User=aimusic
 Group=aimusic
-Environment=GIT_SSH_COMMAND=ssh -i /var/lib/aimusic/deploy_key -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new
+Environment="GIT_SSH_COMMAND=ssh -i /var/lib/aimusic/deploy_key -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"
 ExecStartPre=/usr/bin/git -C /var/lib/aimusic/repo pull -q --rebase
 ExecStart=/usr/bin/python3 -I /var/lib/aimusic/repo/src/crawl.py --db /var/lib/aimusic/state.db --repo /var/lib/aimusic/repo --checks 1500
 TimeoutStartSec=3h
