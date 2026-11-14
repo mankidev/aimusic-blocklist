@@ -1,9 +1,11 @@
 import argparse
 import datetime
+import hashlib
 import json
 import os
 import random
 import re
+import shutil
 import sqlite3
 import subprocess
 import sys
@@ -332,8 +334,8 @@ def check(db, yt, cid, known_ai):
     return status
 
 
-def export(db, repo):
-    os.makedirs(os.path.join(repo, "data"), exist_ok=True)
+def export(db, out_dir):
+    os.makedirs(out_dir, exist_ok=True)
     today = datetime.date.today().isoformat()
 
     def rows(status):
@@ -358,36 +360,60 @@ def export(db, repo):
     queued = db.execute("select count(*) from channel where status='queued'").fetchone()[0]
     for name, items in (("blocklist.json", ai), ("suspects.json", suspects)):
         body = {"version": 1, "updated": today, "count": len(items), "artists": items}
-        path = os.path.join(repo, "data", name)
+        path = os.path.join(out_dir, name)
         with open(path + ".tmp", "w", encoding="utf-8") as out:
             json.dump(body, out, ensure_ascii=False, indent=1)
             out.write("\n")
         os.replace(path + ".tmp", path)
     stats = {"updated": today, "listed": len(ai), "suspects": len(suspects),
              "checked": checked, "queued": queued}
-    with open(os.path.join(repo, "data", "stats.json"), "w", encoding="utf-8") as out:
+    with open(os.path.join(out_dir, "stats.json"), "w", encoding="utf-8") as out:
         json.dump(stats, out, indent=1)
         out.write("\n")
     return stats
 
 
-def publish(repo, stats):
-    git = ["git", "-C", repo]
-    subprocess.run(git + ["add", "data"], check=True)
-    if subprocess.run(git + ["diff", "--cached", "--quiet"]).returncode == 0:
+def fingerprint(out_dir):
+    h = hashlib.sha256()
+    for name in ("blocklist.json", "suspects.json"):
+        with open(os.path.join(out_dir, name), "rb") as f:
+            for line in f:
+                if not line.startswith(b' "updated"'):
+                    h.update(line)
+    return h.hexdigest()
+
+
+def publish(db, repo, out_dir, stats):
+    mark = fingerprint(out_dir)
+    if meta(db, "published") == mark:
         print("no changes")
         return
-    msg = "Update list: %d listed, %d suspects" % (stats["listed"], stats["suspects"])
+    stage = os.path.join(os.path.dirname(os.path.abspath(out_dir)), "release")
+    shutil.rmtree(stage, ignore_errors=True)
+    shutil.copytree(out_dir, os.path.join(stage, "data"))
+    shutil.copytree(os.path.join(repo, ".github"), os.path.join(stage, ".github"))
+    remote = subprocess.run(["git", "-C", repo, "remote", "get-url", "origin"],
+                            check=True, capture_output=True, text=True).stdout.strip()
+    tag = "list-" + datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%d-%H%M")
+    msg = "%d listed, %d suspects" % (stats["listed"], stats["suspects"])
+    git = ["git", "-C", stage, "-c", "user.name=aimusic-crawler",
+           "-c", "user.email=aimusic-crawler@users.noreply.github.com"]
+    subprocess.run(git + ["init", "-q"], check=True)
+    subprocess.run(git + ["add", "-A"], check=True)
     subprocess.run(git + ["commit", "-q", "-m", msg], check=True)
-    subprocess.run(git + ["pull", "-q", "--rebase"], check=True)
-    subprocess.run(git + ["push", "-q", "origin", "HEAD"], check=True)
-    print("pushed:", msg)
+    subprocess.run(git + ["tag", tag], check=True)
+    subprocess.run(git + ["push", "-q", remote, "refs/tags/" + tag], check=True)
+    meta(db, "published", mark)
+    db.commit()
+    shutil.rmtree(stage, ignore_errors=True)
+    print("pushed", tag, msg)
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--db", default="/var/lib/aimusic/state.db")
     ap.add_argument("--repo", default="/var/lib/aimusic/repo")
+    ap.add_argument("--out", default="/var/lib/aimusic/out")
     ap.add_argument("--queries", default=os.path.join(os.path.dirname(__file__), "queries.txt"))
     ap.add_argument("--checks", type=int, default=1200)
     ap.add_argument("--searches", type=int, default=12)
@@ -440,10 +466,10 @@ def main():
     db.commit()
     print("checked", tally, "requests", yt.requests, "minutes", round((time.time() - started) / 60, 1),
           "stopped", stopped)
-    stats = export(db, args.repo)
+    stats = export(db, args.out)
     print("stats", stats)
     if not args.no_publish:
-        publish(args.repo, stats)
+        publish(db, args.repo, args.out, stats)
 
 
 if __name__ == "__main__":

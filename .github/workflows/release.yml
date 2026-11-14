@@ -1,0 +1,30 @@
+name: release
+
+on:
+  push:
+    tags:
+      - "list-*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish list
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          listed=$(jq .listed data/stats.json)
+          suspects=$(jq .suspects data/stats.json)
+          checked=$(jq .checked data/stats.json)
+          gh release create "$TAG" data/blocklist.json data/suspects.json data/stats.json \
+            --title "$listed AI channels" \
+            --notes "$suspects suspects, $checked channels checked so far." \
+            --latest
+          gh release list --limit 100 --json tagName --jq '.[10:][].tagName' | while read -r old; do
+            gh release delete "$old" --yes --cleanup-tag
+          done

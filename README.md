@@ -4,14 +4,16 @@ List of YouTube Music artist channels that publish AI-generated music. A crawler
 
 ## Files
 
-- `data/blocklist.json`: channels the crawler marked as AI.
-- `data/suspects.json`: channels with some AI signals, not enough to list. They are checked again after 30 days.
-- `data/stats.json`: counts from the last run.
+The list is published as a [release](https://github.com/mankidev/aimusic-blocklist/releases/latest). The release title is the number of listed channels. Each release has three files:
 
-Raw URL for apps:
+- `blocklist.json`: channels the crawler marked as AI.
+- `suspects.json`: channels with some AI signals, not enough to list. They are checked again after 30 days.
+- `stats.json`: counts from the run.
+
+A new release comes out when the list changes, and the last 10 are kept. This URL always points to the newest list:
 
 ```
-https://raw.githubusercontent.com/mankidev/aimusic-blocklist/main/data/blocklist.json
+https://github.com/mankidev/aimusic-blocklist/releases/latest/download/blocklist.json
 ```
 
 Each entry looks like this:
@@ -56,11 +58,11 @@ Listed channels are checked again after 120 days, so a channel can leave the lis
 ## Running it
 
 ```
-python3 src/crawl.py --db state.db --repo . --checks 200 --no-publish
+python3 src/crawl.py --db state.db --repo . --out out --checks 200 --no-publish
 python3 src/crawl.py --channel UCEClyTqxY56zlHSJjCNRgIA
 ```
 
-The second command scores one channel and prints the result. `deploy/` holds the systemd timer used on the server.
+The second command scores one channel and prints the result. `deploy/` holds the systemd timer used on the server, and `.github/workflows/release.yml` turns the tag the server pushes into a release.
 
 ## Wrong entry?
 
