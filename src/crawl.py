@@ -388,24 +388,18 @@ def publish(db, repo, out_dir, stats):
     if meta(db, "published") == mark:
         print("no changes")
         return
-    stage = os.path.join(os.path.dirname(os.path.abspath(out_dir)), "release")
-    shutil.rmtree(stage, ignore_errors=True)
-    shutil.copytree(out_dir, os.path.join(stage, "data"))
-    shutil.copytree(os.path.join(repo, ".github"), os.path.join(stage, ".github"))
-    remote = subprocess.run(["git", "-C", repo, "remote", "get-url", "origin"],
-                            check=True, capture_output=True, text=True).stdout.strip()
+    git = ["git", "-C", repo]
+    subprocess.run(git + ["pull", "-q", "--rebase"], check=True)
+    shutil.rmtree(os.path.join(repo, "data"), ignore_errors=True)
+    shutil.copytree(out_dir, os.path.join(repo, "data"))
     tag = "list-" + datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%d-%H%M")
-    msg = "%d listed, %d suspects" % (stats["listed"], stats["suspects"])
-    git = ["git", "-C", stage, "-c", "user.name=aimusic-crawler",
-           "-c", "user.email=aimusic-crawler@users.noreply.github.com"]
-    subprocess.run(git + ["init", "-q"], check=True)
-    subprocess.run(git + ["add", "-A"], check=True)
+    msg = "Update list: %d listed, %d suspects" % (stats["listed"], stats["suspects"])
+    subprocess.run(git + ["add", "data"], check=True)
     subprocess.run(git + ["commit", "-q", "-m", msg], check=True)
     subprocess.run(git + ["tag", tag], check=True)
-    subprocess.run(git + ["push", "-q", remote, "refs/tags/" + tag], check=True)
+    subprocess.run(git + ["push", "-q", "--atomic", "origin", "HEAD:main", "refs/tags/" + tag], check=True)
     meta(db, "published", mark)
     db.commit()
-    shutil.rmtree(stage, ignore_errors=True)
     print("pushed", tag, msg)
 
 

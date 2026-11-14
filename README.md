@@ -4,13 +4,13 @@ List of YouTube Music artist channels that publish AI-generated music. A crawler
 
 ## Files
 
-The list is published as a [release](https://github.com/mankidev/aimusic-blocklist/releases/latest). The release title is the number of listed channels. Each release has three files:
+The list is in `data/` and is also published as a [release](https://github.com/mankidev/aimusic-blocklist/releases/latest). The release title is the number of listed channels. The files:
 
 - `blocklist.json`: channels the crawler marked as AI.
 - `suspects.json`: channels with some AI signals, not enough to list. They are checked again after 30 days.
 - `stats.json`: counts from the run.
 
-A new release comes out when the list changes, and the last 10 are kept. This URL always points to the newest list:
+When the list changes, the server commits `data/` and a new release comes out. The last 10 releases are kept. This URL always points to the newest list:
 
 ```
 https://github.com/mankidev/aimusic-blocklist/releases/latest/download/blocklist.json
@@ -62,7 +62,7 @@ python3 src/crawl.py --db state.db --repo . --out out --checks 200 --no-publish
 python3 src/crawl.py --channel UCEClyTqxY56zlHSJjCNRgIA
 ```
 
-The second command scores one channel and prints the result. `deploy/` holds the systemd timer used on the server, and `.github/workflows/release.yml` turns the tag the server pushes into a release.
+The second command scores one channel and prints the result. `deploy/` holds the systemd timer used on the server, and `.github/workflows/release.yml` turns the tag on that commit into a release.
 
 ## Wrong entry?
 
