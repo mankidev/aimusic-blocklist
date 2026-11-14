@@ -1,0 +1,10 @@
+[Unit]
+Description=Daily AI music channel list crawl
+
+[Timer]
+OnCalendar=*-*-* 05:30
+RandomizedDelaySec=45m
+Persistent=true
+
+[Install]
+WantedBy=timers.target
