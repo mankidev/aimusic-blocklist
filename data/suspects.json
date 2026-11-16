@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-15",
- "count": 637,
+ "updated": "2026-11-16",
+ "count": 887,
  "artists": [
   {
    "name": "刘阳阳",
@@ -45,6 +45,46 @@
    "listed": null
   },
   {
+   "name": "TRIGGERGANG",
+   "channelId": "UC-LdEo53WGpojss5azYnEmA",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "ai_neighborhood"
+   ],
+   "subscribers": 15000,
+   "releases": 9,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "DJ DIRTY J",
+   "channelId": "UC-WjV5DOPNRoPJBcHvjKGow",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 3790,
+   "releases": 102,
+   "firstRelease": 2020,
+   "listed": null
+  },
+  {
+   "name": "williams jr",
+   "channelId": "UC-_6HDXQuBvtahYsefF1pAg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 38,
+   "releases": 6,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Adley Music",
    "channelId": "UC-eUMGvgGKucf-JEn3zS1gw",
    "score": 5,
@@ -54,6 +94,19 @@
    ],
    "subscribers": 29,
    "releases": 7,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Kids Melody Thailand",
+   "channelId": "UC-k-o2GZb6MRt6__xwQdouw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 900,
+   "releases": 15,
    "firstRelease": 2025,
    "listed": null
   },
@@ -83,6 +136,20 @@
    "subscribers": 86,
    "releases": 72,
    "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "MC Theuzyn",
+   "channelId": "UC-tkGevbYrGs7CaDNf8-7Gw",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 17500,
+   "releases": 101,
+   "firstRelease": 2023,
    "listed": null
   },
   {
@@ -127,6 +194,20 @@
    "listed": null
   },
   {
+   "name": "RelaxMyCat",
+   "channelId": "UC0CKZLeBbXQOW_0qwZRTPaA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 6210,
+   "releases": 112,
+   "firstRelease": 2021,
+   "listed": null
+  },
+  {
    "name": "打工姐",
    "channelId": "UC0DXScZ7TJxC18PHGotsWRA",
    "score": 5,
@@ -137,6 +218,32 @@
    "subscribers": 151,
    "releases": 14,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Shi Eubank",
+   "channelId": "UC0EGDXcrMGVnXscgm9mtAmQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 3430,
+   "releases": 19,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Mina Rei",
+   "channelId": "UC0MbP4hpx2La1yxzWG9QI9w",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1420,
+   "releases": 9,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -193,6 +300,33 @@
    "listed": null
   },
   {
+   "name": "Manifest Afro",
+   "channelId": "UC0W81xxVd--X2wNu2KHkGUw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 777,
+   "releases": 9,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "L（桃籽）",
+   "channelId": "UC0Wv5KhXCeNjGf4Sloc4VKA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 1810,
+   "releases": 101,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
    "name": "Lunar Boy",
    "channelId": "UC0cKkanFoN_9K_qDI1QAAfQ",
    "score": 5,
@@ -202,6 +336,32 @@
    ],
    "subscribers": 601,
    "releases": 15,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "AI French Relaxing Music",
+   "channelId": "UC0chrAAWW3YSZvot5s6sxkA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 129,
+   "releases": 8,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Taoko",
+   "channelId": "UC0gk5ozL8kXa9t1KHDLrGrg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2120,
+   "releases": 9,
    "firstRelease": 2026,
    "listed": null
   },
@@ -229,6 +389,73 @@
    "subscribers": 3400,
    "releases": 19,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Virtue vox",
+   "channelId": "UC0oYyRi1i3mXtnjRHK025Nw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 290,
+   "releases": 5,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Adam J",
+   "channelId": "UC0siVk19UfL93q_quudebww",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 165,
+   "releases": 13,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Hollywood",
+   "channelId": "UC0uKWwTF1TBNYSOn5WjyeIA",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 2200,
+   "releases": 84,
+   "firstRelease": 2019,
+   "listed": null
+  },
+  {
+   "name": "Yamsel",
+   "channelId": "UC14T1K7lblD5OHOfAEDdFrw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 8050,
+   "releases": 16,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "DJ Youtube",
+   "channelId": "UC18nnaXRJcjVgsfEcOC6F7Q",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 1150,
+   "releases": 50,
+   "firstRelease": 2024,
    "listed": null
   },
   {
@@ -273,6 +500,19 @@
    "listed": null
   },
   {
+   "name": "한인사회(Korean Community)",
+   "channelId": "UC1Ihyhw_WlVf-irAnad1rZw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 415,
+   "releases": 8,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Alexanderk8",
    "channelId": "UC1MLYnstNeyq3s2JI234v1A",
    "score": 5,
@@ -297,6 +537,33 @@
    "subscribers": 31900,
    "releases": 45,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Coffee House Jazz",
+   "channelId": "UC1OoYDrMqCm6EHk1mmgW79Q",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 204,
+   "releases": 109,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
+   "name": "Objective.",
+   "channelId": "UC1QLFur9AA6QOz8dN-ZOlDw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 3360,
+   "releases": 10,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -352,6 +619,20 @@
    "subscribers": 106,
    "releases": 106,
    "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Baby Music",
+   "channelId": "UC1frr39DCTI5XKPbTnh7BCA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 8350,
+   "releases": 105,
+   "firstRelease": 2021,
    "listed": null
   },
   {
@@ -421,6 +702,33 @@
    "listed": null
   },
   {
+   "name": "KAIRO",
+   "channelId": "UC1tgCS8tJFQqBuhhNWoJ51g",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 59,
+   "releases": 5,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Chill Hop Lofi Study Beats",
+   "channelId": "UC21oAL2U3NyJIUTP5eDR4yA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 19,
+   "releases": 172,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
    "name": "Tavern & Tales",
    "channelId": "UC2K7Bz-oMcFtHP5ZJO0j59Q",
    "score": 5,
@@ -457,6 +765,20 @@
    ],
    "subscribers": 7320,
    "releases": 116,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "林三七",
+   "channelId": "UC2LtypGbTqN5CalolqfGWig",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 538,
+   "releases": 101,
    "firstRelease": 2024,
    "listed": null
   },
@@ -501,6 +823,19 @@
    "listed": null
   },
   {
+   "name": "yunbaleiro",
+   "channelId": "UC2UiQSPCFoxED8KIlsLd7_g",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 964,
+   "releases": 15,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Excalibur Darkwave",
    "channelId": "UC2W1MfeXlSvSgyxQrbEIonQ",
    "score": 5,
@@ -510,6 +845,32 @@
    ],
    "subscribers": 3,
    "releases": 5,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Puppet Spider",
+   "channelId": "UC2_gdsN4H_UPTh7kbHOqXaA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 8460,
+   "releases": 17,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "RØWAN VALE",
+   "channelId": "UC2cCkSWlrAypB-MxaigNgyQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2520,
+   "releases": 8,
    "firstRelease": 2026,
    "listed": null
   },
@@ -619,6 +980,46 @@
    "listed": null
   },
   {
+   "name": "TheNarrowGate",
+   "channelId": "UC369zTQ7_K2H3Orut3OFtEA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 3690,
+   "releases": 199,
+   "firstRelease": 2018,
+   "listed": null
+  },
+  {
+   "name": "Empty Angels",
+   "channelId": "UC3DKl-Aa8MwAtxI-TNkWczg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1190,
+   "releases": 8,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Echoholix",
+   "channelId": "UC3FrJF2COciMlzs-UBNBOrw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2680,
+   "releases": 14,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Juka Mandelão",
    "channelId": "UC3IbNMXZskp7sGMpU8x3xkQ",
    "score": 5,
@@ -656,6 +1057,20 @@
    "subscribers": 74,
    "releases": 16,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Dj Mack",
+   "channelId": "UC3QfnDTw6XU5MlXqrhDSSxw",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 18000,
+   "releases": 100,
+   "firstRelease": 2024,
    "listed": null
   },
   {
@@ -779,6 +1194,20 @@
    "listed": null
   },
   {
+   "name": "Jazz Lounge Zone",
+   "channelId": "UC4PuoNP_9DtKpFUPrdlC1hA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 2870,
+   "releases": 103,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
    "name": "Beatzerk",
    "channelId": "UC4RwtE9JzWBRdV-P95WQRdw",
    "score": 5,
@@ -845,6 +1274,19 @@
    "listed": null
   },
   {
+   "name": "EOTM MUSIC",
+   "channelId": "UC4u3Eh9EyrQ_fq3lOvgfxhg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 259,
+   "releases": 9,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Room.",
    "channelId": "UC4uzPThF9A1Fw8nXQIBJyEg",
    "score": 6,
@@ -854,6 +1296,19 @@
    ],
    "subscribers": 25600,
    "releases": 92,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Fate Cue Music",
+   "channelId": "UC4yIWZU6VJOuDjkGFaXjmxw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 5090,
+   "releases": 11,
    "firstRelease": 2025,
    "listed": null
   },
@@ -911,6 +1366,19 @@
    "listed": null
   },
   {
+   "name": "Layla Rey",
+   "channelId": "UC53NjsIdIqYM-Onn-MbcI7g",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 161,
+   "releases": 14,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Blues Rock Jam Studio",
    "channelId": "UC57x-m-d_nHT2M-gkfcqLtQ",
    "score": 5,
@@ -924,6 +1392,19 @@
    "listed": null
   },
   {
+   "name": "Melysha Putri",
+   "channelId": "UC5Ea4l4q_3YBq8vcMuj-q8A",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 790,
+   "releases": 5,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Timeless",
    "channelId": "UC5HZsCcYLeq184Sxr2z1cPQ",
    "score": 5,
@@ -934,6 +1415,20 @@
    "subscribers": 225,
    "releases": 9,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "陈艾琳",
+   "channelId": "UC5L9at1C_ZR0GsJ6viEVYjA",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 158,
+   "releases": 47,
+   "firstRelease": 2024,
    "listed": null
   },
   {
@@ -963,6 +1458,19 @@
    "listed": null
   },
   {
+   "name": "Musickian",
+   "channelId": "UC5YrajF9Wx2-uz0Kp3890kg",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "ai_neighborhood"
+   ],
+   "subscribers": 2029,
+   "releases": 17,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Serinity B",
    "channelId": "UC5giDmLbo7Uuy-nAOdP3D-A",
    "score": 5,
@@ -973,6 +1481,20 @@
    "subscribers": 686,
    "releases": 5,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "小法哥",
+   "channelId": "UC5iI-UbRPWT_JO6KQvTVoTw",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 62,
+   "releases": 88,
+   "firstRelease": 2021,
    "listed": null
   },
   {
@@ -1013,6 +1535,19 @@
    ],
    "subscribers": 27000,
    "releases": 14,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Element Four Jazz and Meditation",
+   "channelId": "UC5sQ_LUqkvFsp99Y-P1e8ZA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 282,
+   "releases": 12,
    "firstRelease": 2025,
    "listed": null
   },
@@ -1122,6 +1657,20 @@
    "listed": null
   },
   {
+   "name": "Ragakov",
+   "channelId": "UC6pa4sGLCyvUJaXOo9Zps6Q",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 4800,
+   "releases": 104,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Luchi dj",
    "channelId": "UC6rJVsMk-N7Bznr5x4_Mb2Q",
    "score": 5,
@@ -1159,6 +1708,21 @@
    "subscribers": 59,
    "releases": 100,
    "firstRelease": 2022,
+   "listed": null
+  },
+  {
+   "name": "Music to Relax in Free Time",
+   "channelId": "UC74MarcPMReEAmUJXhn_ISA",
+   "score": 6,
+   "signals": [
+    "fast_output",
+    "very_fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 306,
+   "releases": 100,
+   "firstRelease": 2023,
    "listed": null
   },
   {
@@ -1268,6 +1832,32 @@
    "listed": null
   },
   {
+   "name": "Ahsan",
+   "channelId": "UC7fpcOJXJQg9v3ofFY4hZfQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 8050,
+   "releases": 8,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "LARA Walker",
+   "channelId": "UC7sIouThLH-RTXIJn2o79Vw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 85,
+   "releases": 8,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "金海锋",
    "channelId": "UC7tMXVhXqhtnP3GovPROqWg",
    "score": 5,
@@ -1291,6 +1881,34 @@
    "subscribers": 68,
    "releases": 5,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Miaoge Zhang",
+   "channelId": "UC85FgcQmE7N949Won9BKXCQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 11400,
+   "releases": 100,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
+   "name": "Music For Dogs",
+   "channelId": "UC89ZjHyjREQATrXw-4aaxcg",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 965,
+   "releases": 119,
+   "firstRelease": 2022,
    "listed": null
   },
   {
@@ -1386,6 +2004,46 @@
    "listed": null
   },
   {
+   "name": "关剑",
+   "channelId": "UC8rt_ZwFAWmQhs3RYEc2CNw",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 1380,
+   "releases": 100,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
+   "name": "Neokrix Music",
+   "channelId": "UC8xwB98nqNIxrUDv6TGxQww",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 94,
+   "releases": 17,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "What If This Song",
+   "channelId": "UC96f3reZYLqFKg6Z3VV1dPA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 728,
+   "releases": 6,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Zé Túbia",
    "channelId": "UC97vLOy8MjOfgzLOywKcl5A",
    "score": 5,
@@ -1396,6 +2054,19 @@
    "subscribers": 241,
    "releases": 12,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "DJ Xen",
+   "channelId": "UC9Bk-iwLv-E2pcms11SJwow",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 199,
+   "releases": 5,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -1464,6 +2135,19 @@
    "listed": null
   },
   {
+   "name": "XRIZZ RMX",
+   "channelId": "UC9fnyP-A3SoZpuwENs6l47w",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 56,
+   "releases": 5,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Bossanova Jazz",
    "channelId": "UC9oLZrmA6M9pce73hqE26-w",
    "score": 5,
@@ -1492,6 +2176,46 @@
    "listed": null
   },
   {
+   "name": "TenZ",
+   "channelId": "UC9twZ9aeAxYl4vZfoUsPE7g",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 379,
+   "releases": 36,
+   "firstRelease": 2020,
+   "listed": null
+  },
+  {
+   "name": "Dachypher",
+   "channelId": "UC9w_z4qfnEpk2azhoEW8ZmA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 5850,
+   "releases": 12,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Hearts Redeemed",
+   "channelId": "UC9xGuOIQUNDLfEbpgiKIJlA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 7530,
+   "releases": 12,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Clank Williams",
    "channelId": "UCA9GP-TD8QwocRsXKo6Bt7A",
    "score": 5,
@@ -1515,6 +2239,20 @@
    "subscribers": 196,
    "releases": 10,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Good Morning Jazz Academy",
+   "channelId": "UCAEK6NANppQci7Epwc08gIg",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 1830,
+   "releases": 100,
+   "firstRelease": 2023,
    "listed": null
   },
   {
@@ -1568,6 +2306,20 @@
    "subscribers": 5730,
    "releases": 16,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "无脚鸟",
+   "channelId": "UCAOxm1SSRzAVh3c4nzz7wKQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 75,
+   "releases": 38,
+   "firstRelease": 2024,
    "listed": null
   },
   {
@@ -1650,6 +2402,32 @@
    "listed": null
   },
   {
+   "name": "Isaac Mather",
+   "channelId": "UCBck2jXDCZIwlyXCv2RTung",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 54800,
+   "releases": 9,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Hyperbolic Club",
+   "channelId": "UCBjcCImzVGZjzhov9Nw-R4g",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 61800,
+   "releases": 33,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "夜霓裳",
    "channelId": "UCBjdqb2-GV92Fmaim7G2jsw",
    "score": 5,
@@ -1673,6 +2451,19 @@
    "subscribers": 2450,
    "releases": 10,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "ASLN",
+   "channelId": "UCBsnzMr6biJZJui9BFLMYPg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2240,
+   "releases": 11,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -1702,6 +2493,32 @@
    "listed": null
   },
   {
+   "name": "Brenda Miles",
+   "channelId": "UCC-XDNWMKsNEaT6XzmL7Smw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 822,
+   "releases": 14,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Mely",
+   "channelId": "UCC2u0BUJ7bgshCDtvLp8ADA",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "fast_output"
+   ],
+   "subscribers": 1320,
+   "releases": 18,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "王一佳",
    "channelId": "UCCQa5yeglNCRfHfd6lBdeqw",
    "score": 5,
@@ -1716,6 +2533,32 @@
    "listed": null
   },
   {
+   "name": "Shanna Gair",
+   "channelId": "UCCb6t8wt_vB6HwtPNzaX99Q",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1270,
+   "releases": 7,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Grace & Guitar",
+   "channelId": "UCCcvoAitkwcphlzY534I93Q",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 65,
+   "releases": 10,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "RayKeyz",
    "channelId": "UCCe0UD67GB3M1GGlXUqZvOw",
    "score": 5,
@@ -1727,6 +2570,34 @@
    "subscribers": 1090,
    "releases": 100,
    "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Elsie Hollow",
+   "channelId": "UCCfKKojyfMY-C3VB2uDE-vg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1170,
+   "releases": 15,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Deep Sleep Music Experience",
+   "channelId": "UCCiPYK8u5KRqTPkGgm2Ny3Q",
+   "score": 6,
+   "signals": [
+    "fast_output",
+    "very_fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 10,
+   "releases": 83,
+   "firstRelease": 2022,
    "listed": null
   },
   {
@@ -1783,6 +2654,33 @@
    "listed": null
   },
   {
+   "name": "Kris Spring",
+   "channelId": "UCD8vSEOKMvAADvhssEoXeEQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 3790,
+   "releases": 5,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Mourrad13",
+   "channelId": "UCDA0FSLK1MMhVm31pFQ2lWg",
+   "score": 6,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "ai_neighborhood"
+   ],
+   "subscribers": 2880,
+   "releases": 100,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Hoenson",
    "channelId": "UCDLSprz83OQdWk1hIVPDr_Q",
    "score": 5,
@@ -1823,6 +2721,19 @@
    "listed": null
   },
   {
+   "name": "Outlaw James Zan",
+   "channelId": "UCDVuftXNGO9nFnuHyeLEI-A",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 167,
+   "releases": 5,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Roxy Renegade",
    "channelId": "UCDXyB8MBkWBLn4BfLvVYqhg",
    "score": 5,
@@ -1849,6 +2760,20 @@
    "listed": null
   },
   {
+   "name": "Lounge Music Channel",
+   "channelId": "UCDcFBsUgRPNTVOPfneHtqbw",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 178,
+   "releases": 108,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
    "name": "Cain Walker Music",
    "channelId": "UCDg9Fp6UgruLwewWBgIOLwQ",
    "score": 5,
@@ -1859,6 +2784,46 @@
    "subscribers": 206000,
    "releases": 19,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "ALANÇA MUSIC",
+   "channelId": "UCDgS2tkERaKd-tmzVzcY5lA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 20000,
+   "releases": 17,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Calming Sounds",
+   "channelId": "UCDiQCeVsaKfwFt-OvhsAbgQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 11,
+   "releases": 104,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
+   "name": "皮楚欣Pi Chuxin",
+   "channelId": "UCDiotGJAzDp8zoH6UXZYk5Q",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 203,
+   "releases": 15,
+   "firstRelease": 2026,
    "listed": null
   },
   {
@@ -1897,6 +2862,60 @@
    ],
    "subscribers": 6,
    "releases": 6,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "不是鱼",
+   "channelId": "UCE89D6fPf8zOFFUBZNQznHw",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 262,
+   "releases": 29,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Analog Atelier",
+   "channelId": "UCE9Th9N-fjWRbIa0MK1ouLw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 16400,
+   "releases": 9,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Calm Music Zone",
+   "channelId": "UCEOOwz1A5HchdgagdWgGwJQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 674,
+   "releases": 101,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
+   "name": "Atmora",
+   "channelId": "UCETFxPtbJvNFOipQzESjE_w",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 410,
+   "releases": 10,
    "firstRelease": 2025,
    "listed": null
   },
@@ -2007,6 +3026,34 @@
    "listed": null
   },
   {
+   "name": "Kissmar",
+   "channelId": "UCEz-2beG8BjWcBks7QmFxhA",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 1390,
+   "releases": 35,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "黑豆ado",
+   "channelId": "UCF1bIGjH3On6RrTXoInN1jQ",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 184,
+   "releases": 46,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "TIONGSON",
    "channelId": "UCFAnwEbC9sHOzTZm0ZVfOFA",
    "score": 5,
@@ -2035,6 +3082,19 @@
    "listed": null
   },
   {
+   "name": "Blues of Grace",
+   "channelId": "UCFMxIQ8aOZHyh3rIVJwrGJA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 111,
+   "releases": 15,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "MC Diego ZS",
    "channelId": "UCFP_UyXiM-zgTqx_Antlf4A",
    "score": 5,
@@ -2049,6 +3109,32 @@
    "listed": null
   },
   {
+   "name": "Skulgard",
+   "channelId": "UCFWn6gvAeZG8E1aFxvnePvA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 28300,
+   "releases": 11,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "IchaL",
+   "channelId": "UCFWuex_pZ5NM6YyVDVoSaQQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 60700,
+   "releases": 34,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "LunaLuma",
    "channelId": "UCFe4GceIe7DGsYd2qkBEBXQ",
    "score": 5,
@@ -2058,6 +3144,19 @@
    ],
    "subscribers": 2380,
    "releases": 13,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "VΞXIS",
+   "channelId": "UCFg7itoZcmAWEkmMzL6nX7Q",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 15600,
+   "releases": 12,
    "firstRelease": 2026,
    "listed": null
   },
@@ -2156,6 +3255,33 @@
    "listed": null
   },
   {
+   "name": "Yu xie",
+   "channelId": "UCG9X8HL8V8bcgVeCdB246MQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 276,
+   "releases": 14,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Reyhan Inci",
+   "channelId": "UCGEL9hkNxjDRBNBpbvoGSXw",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 98,
+   "releases": 25,
+   "firstRelease": 2016,
+   "listed": null
+  },
+  {
    "name": "Solanomusic",
    "channelId": "UCGLlYnqoR3TtsF6alIx7F8w",
    "score": 5,
@@ -2167,6 +3293,20 @@
    "subscribers": 1100,
    "releases": 23,
    "firstRelease": 2018,
+   "listed": null
+  },
+  {
+   "name": "商心慈",
+   "channelId": "UCGNThCRB9irHUl9kcOhp6_g",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 111,
+   "releases": 45,
+   "firstRelease": 2024,
    "listed": null
   },
   {
@@ -2193,6 +3333,19 @@
    "subscribers": 494,
    "releases": 6,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Torres Music",
+   "channelId": "UCGQhO7WWC_5WFwG2BFpOa2g",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 20,
+   "releases": 9,
+   "firstRelease": 2026,
    "listed": null
   },
   {
@@ -2367,6 +3520,19 @@
    "listed": null
   },
   {
+   "name": "Vikings of Christ",
+   "channelId": "UCHPiJt2OEN2QhbSxOXrv-TQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1680,
+   "releases": 5,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Country Ballad",
    "channelId": "UCHTJLyO22BPRRf8S6Xf8ksQ",
    "score": 5,
@@ -2499,6 +3665,19 @@
    "listed": null
   },
   {
+   "name": "Amatira",
+   "channelId": "UCI-_7ezG1dlIbwdjty7TyWQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 712,
+   "releases": 18,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Xia Ren",
    "channelId": "UCI4tHAwR0HcdqLT5dKLnG3Q",
    "score": 5,
@@ -2509,6 +3688,46 @@
    ],
    "subscribers": 11300,
    "releases": 101,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
+   "name": "DJ Sabini",
+   "channelId": "UCI6NnhkKgR_2IfLz3cUpSqg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 11,
+   "releases": 10,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Zavyre",
+   "channelId": "UCI98bTDPgVUfabMkXGSkvbg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 134000,
+   "releases": 9,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Meditación Música Ambiente",
+   "channelId": "UCIBrL8G760dsEZKUWbK0FHA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 825,
+   "releases": 100,
    "firstRelease": 2023,
    "listed": null
   },
@@ -2541,6 +3760,34 @@
    "listed": null
   },
   {
+   "name": "平生不晚",
+   "channelId": "UCIL83pMxSR54d0gJw3d_ycQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 10900,
+   "releases": 105,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
+   "name": "阿钦",
+   "channelId": "UCIerLjSFI556Gag3R39sUVQ",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 463,
+   "releases": 26,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Lín Yǔxī",
    "channelId": "UCIinHzPA4yWQejmQNJBubjQ",
    "score": 5,
@@ -2550,6 +3797,32 @@
    ],
    "subscribers": 105,
    "releases": 11,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Country Sessions",
+   "channelId": "UCIoOEYxiYhwjICVtAa0709A",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "fast_output"
+   ],
+   "subscribers": 1820,
+   "releases": 18,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "King Kigh",
+   "channelId": "UCIqrSxTUk9L3oZ-F-J9av5Q",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2630,
+   "releases": 7,
    "firstRelease": 2026,
    "listed": null
   },
@@ -2595,6 +3868,33 @@
    "listed": null
   },
   {
+   "name": "Instrumental Jazz Música Ambiental",
+   "channelId": "UCJ1s5C299YhPEpJZQjzxaOA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 579,
+   "releases": 104,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
+   "name": "PRETTY HONEST",
+   "channelId": "UCJE78JFSWE7_rMPqEx9xj1A",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 275,
+   "releases": 14,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Dark Ambient Cat",
    "channelId": "UCJMHGM4JBzSMX7zhxr-pD0w",
    "score": 5,
@@ -2605,6 +3905,34 @@
    "subscribers": 1,
    "releases": 5,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "MJ-Project",
+   "channelId": "UCJMWNytEScfHWOI2FxL7lMg",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 2460,
+   "releases": 40,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
+   "name": "Chinese Relaxation and Meditation",
+   "channelId": "UCJT3ENyNyL7Ds0z6s_PB-5Q",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 166,
+   "releases": 100,
+   "firstRelease": 2022,
    "listed": null
   },
   {
@@ -2649,6 +3977,20 @@
    "listed": null
   },
   {
+   "name": "SoundVirtuoso",
+   "channelId": "UCJaKdScKXLykpvcdJkRvq8A",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 3120,
+   "releases": 91,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Bradley McFly",
    "channelId": "UCJboXHdv7YLBAhAGSxdsmag",
    "score": 5,
@@ -2660,6 +4002,19 @@
    "subscribers": 2250,
    "releases": 85,
    "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Solfave",
+   "channelId": "UCJd91Hv4F0gotMFVBm_BdGA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 118,
+   "releases": 8,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -2744,6 +4099,20 @@
    "listed": null
   },
   {
+   "name": "Relaxing Instrumental Jazz Ensemble",
+   "channelId": "UCK52fggR1hNCYut5KIVaMhg",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 548,
+   "releases": 120,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
    "name": "Christian country music",
    "channelId": "UCKBgITid8gTjYEOgH06VIHQ",
    "score": 5,
@@ -2769,6 +4138,34 @@
    "subscribers": 777,
    "releases": 100,
    "firstRelease": 2022,
+   "listed": null
+  },
+  {
+   "name": "Nia Nkuna",
+   "channelId": "UCKZjWhFV_7-74smCgOrcfnw",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 1210,
+   "releases": 62,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Ted D'Souza",
+   "channelId": "UCKjXXYMVNDGrjyEUwkDlIuA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 4290,
+   "releases": 110,
+   "firstRelease": 2023,
    "listed": null
   },
   {
@@ -2864,6 +4261,20 @@
    "subscribers": 32,
    "releases": 41,
    "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Fabricantes De Lluvia",
+   "channelId": "UCLM_QDvNre4oURqX0l6vZnQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 136,
+   "releases": 108,
+   "firstRelease": 2022,
    "listed": null
   },
   {
@@ -2985,6 +4396,20 @@
    "listed": null
   },
   {
+   "name": "曲木老表",
+   "channelId": "UCMPFdzEfs8BF8-DzCMVxPdw",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 1800,
+   "releases": 36,
+   "firstRelease": 2018,
+   "listed": null
+  },
+  {
    "name": "Austin Benton",
    "channelId": "UCMSR4CsI7-6aFVsvJ-hyFEA",
    "score": 5,
@@ -3064,6 +4489,47 @@
    "listed": null
   },
   {
+   "name": "Zhod",
+   "channelId": "UCN-8Qw5aADdO4kvSi5sGcEA",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 103,
+   "releases": 104,
+   "firstRelease": 2012,
+   "listed": null
+  },
+  {
+   "name": "Britton Moore",
+   "channelId": "UCN1Q1Hf6Byut-KA0Gygh69w",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 665,
+   "releases": 5,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Étoile",
+   "channelId": "UCN1Qipk7MvAC15ddgo1zg3A",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 2740,
+   "releases": 62,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Scott Music Ph",
    "channelId": "UCN4D9MIUeyQyAiiXKo3gemQ",
    "score": 5,
@@ -3074,6 +4540,33 @@
    "subscribers": 2190,
    "releases": 13,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "TRAP KING MAFIA",
+   "channelId": "UCN50rbR2nmUu_oZ9iFheK0Q",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1090,
+   "releases": 13,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Liam Starling",
+   "channelId": "UCNCAEWkMe9c6yT5hVg4HNiA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 57,
+   "releases": 71,
+   "firstRelease": 2024,
    "listed": null
   },
   {
@@ -3113,6 +4606,20 @@
    "subscribers": 300,
    "releases": 18,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Wizzy",
+   "channelId": "UCNgJ_dNe7lKzJ5sQ3_udQVg",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 497,
+   "releases": 25,
+   "firstRelease": 2019,
    "listed": null
   },
   {
@@ -3209,6 +4716,19 @@
    "listed": null
   },
   {
+   "name": "Arty Ficial",
+   "channelId": "UCO4a05FqgC8xa-0UBj7vVSA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 875,
+   "releases": 18,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Black Aura",
    "channelId": "UCOBduxI329JaU6q4C6UjQsg",
    "score": 6,
@@ -3222,6 +4742,19 @@
    "listed": null
   },
   {
+   "name": "Gloom Choir",
+   "channelId": "UCOKFuap1wUFCwd5NZkRy-iA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 165,
+   "releases": 6,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Lexy Sad Piano",
    "channelId": "UCOLKJj1S0hpyTBGOeHAdiDg",
    "score": 5,
@@ -3231,6 +4764,19 @@
    ],
    "subscribers": 0,
    "releases": 7,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Magdalena Teresa Bertoni",
+   "channelId": "UCOXcKQzdRmqPWPExis8MtHA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 43,
+   "releases": 8,
    "firstRelease": 2026,
    "listed": null
   },
@@ -3275,6 +4821,20 @@
    "listed": null
   },
   {
+   "name": "拾柒兄弟",
+   "channelId": "UCOlZt1C_okoycEnDRWx9fSg",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 2250,
+   "releases": 100,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Benny Rivers",
    "channelId": "UCP6GKpRVgn1XXIw2y7ZVygQ",
    "score": 5,
@@ -3298,6 +4858,19 @@
    "subscribers": 1700,
    "releases": 17,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "May Dies Last",
+   "channelId": "UCP9tKf67663KanTopVzgCeQ",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "ai_neighborhood"
+   ],
+   "subscribers": 4580,
+   "releases": 5,
+   "firstRelease": 2026,
    "listed": null
   },
   {
@@ -3340,6 +4913,19 @@
    "listed": null
   },
   {
+   "name": "Danilo7",
+   "channelId": "UCPO2i-ABUZ71hAWeqQwZxKg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1420,
+   "releases": 11,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Enlly Blue Music",
    "channelId": "UCPTso0H9335j9zA9R9Z3oBw",
    "score": 6,
@@ -3349,6 +4935,19 @@
    ],
    "subscribers": 3940,
    "releases": 19,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "愛音 / Aine",
+   "channelId": "UCPe7e97K_PQ_al8qoLelFhQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 577,
+   "releases": 9,
    "firstRelease": 2026,
    "listed": null
   },
@@ -3501,6 +5100,20 @@
    "listed": null
   },
   {
+   "name": "小雨点",
+   "channelId": "UCQKTSWtQAMuv1Jk5R5BnOWw",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 3670,
+   "releases": 100,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
    "name": "vxidmxne",
    "channelId": "UCQNzA_u24C3bmzl4_eh_vWg",
    "score": 5,
@@ -3525,6 +5138,19 @@
    "subscribers": 164,
    "releases": 86,
    "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "NONEED2KNO",
+   "channelId": "UCQTqh8CetcFTrkgdeaEHMUQ",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "many_releases_few_fans"
+   ],
+   "subscribers": 19500,
+   "releases": 35,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -3766,6 +5392,19 @@
    "listed": null
   },
   {
+   "name": "Lost Alien",
+   "channelId": "UCS-26zia8nhAZVypsih05gA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 6250,
+   "releases": 9,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Sound Africa Records",
    "channelId": "UCS-nYIlRbl5HoPrfykznM0w",
    "score": 5,
@@ -3776,6 +5415,20 @@
    "subscribers": 388,
    "releases": 10,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "文夫",
+   "channelId": "UCS-sxEOkpfXiLpb9ZQjquJw",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 3450,
+   "releases": 104,
+   "firstRelease": 2023,
    "listed": null
   },
   {
@@ -4046,6 +5699,20 @@
    "listed": null
   },
   {
+   "name": "Ed Gysmo",
+   "channelId": "UCThZNBt8kHvv9ElmVa7PXeg",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 320,
+   "releases": 31,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "BLACK RIVER SAINTS",
    "channelId": "UCTjsIBzhxAW4OHeUOfgZwbA",
    "score": 5,
@@ -4072,6 +5739,19 @@
    "listed": null
   },
   {
+   "name": "Chapter 7",
+   "channelId": "UCU4kVWUOYPp20DbV9QrPrCw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 4980,
+   "releases": 7,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Rooted In Christ Music",
    "channelId": "UCU5l9ilX_bVTlswQ8mz3vhA",
    "score": 5,
@@ -4081,6 +5761,19 @@
    ],
    "subscribers": 4370,
    "releases": 13,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Outlaw Frequency",
+   "channelId": "UCU8rUK6vSJkWKY7f5GblMuw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1370,
+   "releases": 8,
    "firstRelease": 2026,
    "listed": null
   },
@@ -4122,6 +5815,46 @@
    "subscribers": 14700,
    "releases": 16,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Kan Chen",
+   "channelId": "UCUa7X3MwJS0DXEbBG8dLHIA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 20,
+   "releases": 6,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Wavesofgracemusic",
+   "channelId": "UCUey8PpoWAjOEh8buJbEVgg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 6350,
+   "releases": 8,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Jump Singers",
+   "channelId": "UCUgo7BPr79w0_YBwT9Yf92w",
+   "score": 6,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "ai_neighborhood"
+   ],
+   "subscribers": 15800,
+   "releases": 72,
+   "firstRelease": 2024,
    "listed": null
   },
   {
@@ -4271,6 +6004,33 @@
    "listed": null
   },
   {
+   "name": "The Manifesting Generator",
+   "channelId": "UCVGdD2tAQleSUExDZDudLBQ",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "ai_neighborhood"
+   ],
+   "subscribers": 2640,
+   "releases": 17,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Donna Theresa",
+   "channelId": "UCVJam2JFV-u0TjHFdozKQSg",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 3580,
+   "releases": 108,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Cantoscena",
    "channelId": "UCVNTOZP_KgOm4eE9uuo70ww",
    "score": 5,
@@ -4281,6 +6041,20 @@
    "subscribers": 51700,
    "releases": 23,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Harri irmawan production",
+   "channelId": "UCVNcvIlQpQGi_MuB_zaGHCQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 1030,
+   "releases": 25,
+   "firstRelease": 2024,
    "listed": null
   },
   {
@@ -4320,6 +6094,19 @@
    "subscribers": 7650,
    "releases": 10,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "大眼仔",
+   "channelId": "UCVfl5BhKA3QSHpLeEqrKRjg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 25,
+   "releases": 11,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -4390,6 +6177,19 @@
    "listed": null
   },
   {
+   "name": "Odin Rising",
+   "channelId": "UCVqQuQ7pI1-Jcko_D3Xp00Q",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1340,
+   "releases": 6,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "trvlr.",
    "channelId": "UCVqcWVeplldIsuuB--MNEfw",
    "score": 5,
@@ -4431,6 +6231,33 @@
    "listed": null
   },
   {
+   "name": "Kurozen",
+   "channelId": "UCW95athTX8qBnQlCvuQfU_w",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 4710,
+   "releases": 17,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "StaJe",
+   "channelId": "UCWKFJMYRDzNnbJV_QZwp-pQ",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 341,
+   "releases": 24,
+   "firstRelease": 2021,
+   "listed": null
+  },
+  {
    "name": "灵玥Lynn",
    "channelId": "UCWUrIVusGoDc4syTuVk-Sdg",
    "score": 5,
@@ -4440,6 +6267,19 @@
    ],
    "subscribers": 81,
    "releases": 16,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "kurome",
+   "channelId": "UCWY7nFZoVSO0sfkBebvFLIw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1390,
+   "releases": 7,
    "firstRelease": 2025,
    "listed": null
   },
@@ -4494,6 +6334,19 @@
    "subscribers": 11400,
    "releases": 9,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "MajinSound",
+   "channelId": "UCWsKczcDQ6Oie21podRmzBA",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "ai_neighborhood"
+   ],
+   "subscribers": 905,
+   "releases": 11,
+   "firstRelease": 2026,
    "listed": null
   },
   {
@@ -4577,6 +6430,33 @@
    "listed": null
   },
   {
+   "name": "Choki Fvnky",
+   "channelId": "UCXE7sooZz6RZvs6aue8qW_w",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 379,
+   "releases": 12,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "李发发",
+   "channelId": "UCXIMvH-oJGNXJN1jaQJIV2w",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 9970,
+   "releases": 106,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Think Soul",
    "channelId": "UCXXNplvYbXJXrH-XFf4fpuA",
    "score": 5,
@@ -4603,6 +6483,34 @@
    "listed": null
   },
   {
+   "name": "Frezee Grand",
+   "channelId": "UCXnu4z6E5Orki_Oc4iI1G2Q",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 9520,
+   "releases": 10,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Music for Dogs Peace",
+   "channelId": "UCXpos5t_UffHT97vf59pxNA",
+   "score": 6,
+   "signals": [
+    "fast_output",
+    "very_fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 224,
+   "releases": 101,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Kabz",
    "channelId": "UCXqToU9ZuZ81VUA-bLNoXaw",
    "score": 5,
@@ -4625,6 +6533,19 @@
    ],
    "subscribers": 12200,
    "releases": 5,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "DJ Malutki",
+   "channelId": "UCYCYFavvfPFFHjliBLv6DYQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 8260,
+   "releases": 10,
    "firstRelease": 2025,
    "listed": null
   },
@@ -4710,6 +6631,19 @@
    "listed": null
   },
   {
+   "name": "Black Vovo",
+   "channelId": "UCYdzSInmu7eWxVIVAdQQgjw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 6460,
+   "releases": 7,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "SK.music",
    "channelId": "UCYhICyWwNaHZvroNQRWCgaA",
    "score": 5,
@@ -4723,6 +6657,32 @@
    "listed": null
   },
   {
+   "name": "BUDi M29",
+   "channelId": "UCZ4_TbK97Qnr1eo89X_4H-w",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "many_releases_few_fans"
+   ],
+   "subscribers": 2690,
+   "releases": 22,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Donovan cage",
+   "channelId": "UCZBM5YsfZxOgrBI_2RIVOyg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 421,
+   "releases": 5,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Night Whiskers",
    "channelId": "UCZD4BFpTz7yeFT8bR1TezVA",
    "score": 6,
@@ -4733,6 +6693,19 @@
    "subscribers": 4920,
    "releases": 16,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "One Irish",
+   "channelId": "UCZDSq9Yzhlaqv-rWL3hU8oA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 648,
+   "releases": 17,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -4762,6 +6735,20 @@
    "listed": null
   },
   {
+   "name": "侯泽润",
+   "channelId": "UCZErlMxn9EVQqgZ88rBWdKQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 5330,
+   "releases": 108,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
    "name": "Medieval Sleep Realms",
    "channelId": "UCZFoNr8PHl4DCzWY9BlX9aQ",
    "score": 5,
@@ -4788,6 +6775,33 @@
    "listed": null
   },
   {
+   "name": "Shining Light Music",
+   "channelId": "UCZXsMxlv8zD2Fa4h90vTueQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 8060,
+   "releases": 96,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "DJ Yatim Fvnky",
+   "channelId": "UCZaqCgu01BPPJ_xtZvPFiBw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 355,
+   "releases": 16,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "James Maverick",
    "channelId": "UCZgIl6WeRhBLqRlMEOXvx9Q",
    "score": 5,
@@ -4799,6 +6813,20 @@
    "subscribers": 822,
    "releases": 40,
    "firstRelease": 2020,
+   "listed": null
+  },
+  {
+   "name": "Honeyfox",
+   "channelId": "UCZqbaP17tLRVg3BSsCqcdTQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 3140,
+   "releases": 92,
+   "firstRelease": 2021,
    "listed": null
   },
   {
@@ -4920,6 +6948,19 @@
    "listed": null
   },
   {
+   "name": "Mark_Recordz",
+   "channelId": "UCa3cNEZYkB8vrRruO_XAiQg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 111,
+   "releases": 9,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "The Bardic DM",
    "channelId": "UCa7IczYhKhSnhHNZ0uI93ng",
    "score": 5,
@@ -5013,6 +7054,19 @@
    "listed": null
   },
   {
+   "name": "鄭暢業",
+   "channelId": "UCaRP3wXL9V_RIqiNS4INsHA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 38,
+   "releases": 9,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Tony El Campeon",
    "channelId": "UCaVfktmCIZoRoIrhD737RHg",
    "score": 5,
@@ -5023,6 +7077,33 @@
    "subscribers": 8930,
    "releases": 17,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Blooma Bell",
+   "channelId": "UCaYIC_siX_YckGP4btxk7jA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 680,
+   "releases": 8,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Rh4psody",
+   "channelId": "UCacVMFV0KVjj2dVKwojbhAQ",
+   "score": 6,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "ai_neighborhood"
+   ],
+   "subscribers": 1160,
+   "releases": 64,
+   "firstRelease": 2024,
    "listed": null
   },
   {
@@ -5037,6 +7118,19 @@
    "subscribers": 42,
    "releases": 100,
    "firstRelease": 2020,
+   "listed": null
+  },
+  {
+   "name": "coraliwave",
+   "channelId": "UCadalzNvyAAqYLHJ0viRziw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 944,
+   "releases": 14,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -5080,6 +7174,33 @@
    "listed": null
   },
   {
+   "name": "Relaxing Bossa Jazz",
+   "channelId": "UCasj_xQKXfebCUdDj6xcSnA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 94,
+   "releases": 40,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
+   "name": "Señoraa",
+   "channelId": "UCau2ZQcPjyxgUMjuU4b8vUg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 267,
+   "releases": 8,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Amut Chowdhury",
    "channelId": "UCaukxoUZ0AcVEXuVjgKRzCA",
    "score": 5,
@@ -5090,6 +7211,33 @@
    "subscribers": 41,
    "releases": 8,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "何小北",
+   "channelId": "UCaySmaMwa-atRI3AG4ZWiOw",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 128,
+   "releases": 99,
+   "firstRelease": 2020,
+   "listed": null
+  },
+  {
+   "name": "LUV TOWN",
+   "channelId": "UCb-cauVsoVhiBbLx8kuFu8w",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2140,
+   "releases": 16,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -5186,6 +7334,33 @@
    "listed": null
   },
   {
+   "name": "VitalWave",
+   "channelId": "UCbQ_96hrkB_lcwFDpC6uTIA",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 96,
+   "releases": 25,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Still Heal",
+   "channelId": "UCbRBrlwEzm8tL9zkUfQv3Dg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 776,
+   "releases": 8,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Pateach",
    "channelId": "UCbTeJ9B5QIquoM9YSoG_wHA",
    "score": 5,
@@ -5197,6 +7372,19 @@
    "subscribers": 1140,
    "releases": 24,
    "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "RAGGAREA",
+   "channelId": "UCbarMNkB3_9XbW7YkLoGn6A",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 550,
+   "releases": 10,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -5224,6 +7412,19 @@
    "subscribers": 3160,
    "releases": 93,
    "firstRelease": 2022,
+   "listed": null
+  },
+  {
+   "name": "Melody Affair",
+   "channelId": "UCbjzg3rILmyGjk6kfrMuPIA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 537,
+   "releases": 6,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -5290,6 +7491,20 @@
    "subscribers": 9970,
    "releases": 25,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "黄文文",
+   "channelId": "UCcDY3h42RKz2YTYksdVgfdQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 1650,
+   "releases": 103,
+   "firstRelease": 2024,
    "listed": null
   },
   {
@@ -5453,6 +7668,34 @@
    "listed": null
   },
   {
+   "name": "Relajante",
+   "channelId": "UCdPCp37odKLHv2Xrxl9jHNg",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 10200,
+   "releases": 110,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
+   "name": "Dilruba",
+   "channelId": "UCdVKlAw3u6RdWRY6kbAqakQ",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 16300,
+   "releases": 100,
+   "firstRelease": 2018,
+   "listed": null
+  },
+  {
    "name": "IC ENGINE",
    "channelId": "UCdW9ps_h7AoFf0Om7e0vBMA",
    "score": 5,
@@ -5529,6 +7772,19 @@
    "subscribers": 2930,
    "releases": 89,
    "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Gentleman of Smooth",
+   "channelId": "UCds2lgsHw-7-wedzeFE4Ofw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2370,
+   "releases": 10,
+   "firstRelease": 2026,
    "listed": null
   },
   {
@@ -5611,6 +7867,34 @@
    "listed": null
   },
   {
+   "name": "Nozomi",
+   "channelId": "UCeWcadMj_s6WwTrL2ujPTBQ",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 193,
+   "releases": 20,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Dj Mano Lost",
+   "channelId": "UCee2qtjXPpecB3aQw3FoyBQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 16200,
+   "releases": 103,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
    "name": "CANI",
    "channelId": "UCejQ1kWeZtO97hvq7UVfDIg",
    "score": 5,
@@ -5664,6 +7948,47 @@
    "listed": null
   },
   {
+   "name": "Helios Jazz Club",
+   "channelId": "UCesHTfaj0Ux80I9-__hhFGg",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 2150,
+   "releases": 83,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
+   "name": "Alec Schubert",
+   "channelId": "UCeuRbocqcX-yOougs3pbVlw",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "many_releases_few_fans"
+   ],
+   "subscribers": 15200,
+   "releases": 23,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Justin Reid",
+   "channelId": "UCf-BgRPxZQdWqtWon2sVQCg",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 5420,
+   "releases": 47,
+   "firstRelease": 2011,
+   "listed": null
+  },
+  {
    "name": "Work at Home Lofi",
    "channelId": "UCf-_uQk-B5cxzKi2Ndp78IQ",
    "score": 5,
@@ -5687,6 +8012,19 @@
    ],
    "subscribers": 1070,
    "releases": 6,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Holy Spirit Blues",
+   "channelId": "UCf6EuAoj1jDEGMux983i-mQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 18000,
+   "releases": 12,
    "firstRelease": 2026,
    "listed": null
   },
@@ -5727,6 +8065,20 @@
    "subscribers": 2410,
    "releases": 7,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Erotic Massage Music Ensemble",
+   "channelId": "UCfGKC8Sm5AOLbnCSIclz_ng",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 1480,
+   "releases": 100,
+   "firstRelease": 2022,
    "listed": null
   },
   {
@@ -5862,6 +8214,19 @@
    "listed": null
   },
   {
+   "name": "何遇Hayu",
+   "channelId": "UCgXqH1Igp-2egO0vvGm9_2A",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 36,
+   "releases": 10,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Deejay Famoroso",
    "channelId": "UCgeokFpNRz5MK-iep642OEA",
    "score": 5,
@@ -5871,6 +8236,32 @@
    ],
    "subscribers": 168,
    "releases": 6,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Jaeni",
+   "channelId": "UCgfcxmWIdY0Pq2EgCQcdqLA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 47,
+   "releases": 14,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Wyatt Creed",
+   "channelId": "UCgo4HiF3FqujD3zGBmTpy9g",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "ai_neighborhood"
+   ],
+   "subscribers": 5850,
+   "releases": 14,
    "firstRelease": 2025,
    "listed": null
   },
@@ -5902,6 +8293,19 @@
    "listed": null
   },
   {
+   "name": "KENDU VIBES",
+   "channelId": "UCgxQpjRx8ND0Dw6u3tI7-JA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 21400,
+   "releases": 12,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Masz Yuda",
    "channelId": "UCh8yMq5VL41i1aEvnbnCv-A",
    "score": 5,
@@ -5911,6 +8315,19 @@
    ],
    "subscribers": 229,
    "releases": 14,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Ragged Mercy",
+   "channelId": "UChEDr4EkcWNqGDrMpBW8lWw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 9750,
+   "releases": 9,
    "firstRelease": 2026,
    "listed": null
   },
@@ -5926,6 +8343,19 @@
    "subscribers": 3480,
    "releases": 101,
    "firstRelease": 2022,
+   "listed": null
+  },
+  {
+   "name": "DJ Xen",
+   "channelId": "UChIDgf6WbymClhU7qxQwmKw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 152,
+   "releases": 5,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -5952,6 +8382,19 @@
    "subscribers": 5150,
    "releases": 16,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Ottoman Mehteran",
+   "channelId": "UChY_JczcyeDngaqttYB0ivQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 5200,
+   "releases": 13,
+   "firstRelease": 2026,
    "listed": null
   },
   {
@@ -6006,6 +8449,20 @@
    "subscribers": 138,
    "releases": 5,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Keep Calm Music Collection",
+   "channelId": "UChoA7EI9PxGP338URUVVbaQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 402,
+   "releases": 100,
+   "firstRelease": 2023,
    "listed": null
   },
   {
@@ -6157,6 +8614,20 @@
    "listed": null
   },
   {
+   "name": "Bossa Nova Jazz Cafe",
+   "channelId": "UCjFagyeqJuh8ttKW0-wiwKA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 205,
+   "releases": 123,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
    "name": "TRUTH:S3RUM",
    "channelId": "UCjYJ-y-sMLcJBX8iQNJinzA",
    "score": 6,
@@ -6196,6 +8667,20 @@
    "listed": null
   },
   {
+   "name": "Babbba",
+   "channelId": "UCjdxxrNChkprzgWOfxQnG-g",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 666,
+   "releases": 122,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Orian",
    "channelId": "UCjfh49-tXKNAl8F6BZHDYHg",
    "score": 5,
@@ -6223,6 +8708,20 @@
    "listed": null
   },
   {
+   "name": "Rachael Schroeder",
+   "channelId": "UCk30JwREqpEAkLRA7EIYSlA",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 1220,
+   "releases": 31,
+   "firstRelease": 2021,
+   "listed": null
+  },
+  {
    "name": "Nömads",
    "channelId": "UCk4EaJFjZJCn_v_r37751kg",
    "score": 5,
@@ -6236,6 +8735,19 @@
    "listed": null
   },
   {
+   "name": "Zeii Lill",
+   "channelId": "UCk4RBUXKwaW0t3iccBUSeKQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 7780,
+   "releases": 17,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "add9",
    "channelId": "UCk5YtDYipwKzWQ5VzoSXIiw",
    "score": 5,
@@ -6245,6 +8757,19 @@
    ],
    "subscribers": 1230,
    "releases": 16,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Anatolian",
+   "channelId": "UCk65fv2QPuhI1wPxwDX_A0A",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 20200,
+   "releases": 25,
    "firstRelease": 2025,
    "listed": null
   },
@@ -6303,6 +8828,19 @@
    "listed": null
   },
   {
+   "name": "Buck Shaw",
+   "channelId": "UCkQHaPlPje0HqF5hh-aTKuw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 157,
+   "releases": 14,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Jack Howlin'",
    "channelId": "UCkQWNlrkZRVXaL0d0lkW0kg",
    "score": 6,
@@ -6328,6 +8866,20 @@
    "subscribers": 4180,
    "releases": 200,
    "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "LexMorris",
+   "channelId": "UCkdTivmOjy7lP8f0mgobxCQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 3740,
+   "releases": 100,
+   "firstRelease": 2022,
    "listed": null
   },
   {
@@ -6424,6 +8976,20 @@
    "listed": null
   },
   {
+   "name": "萧泽",
+   "channelId": "UClXJwdw--hI52zrc0C8_4-Q",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 409,
+   "releases": 54,
+   "firstRelease": 2021,
+   "listed": null
+  },
+  {
    "name": "Celtic Music for Sleep",
    "channelId": "UClZnpD8S8j9MM48giT9TVOg",
    "score": 5,
@@ -6448,6 +9014,19 @@
    "subscribers": 10100,
    "releases": 26,
    "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "JAYNBERG",
+   "channelId": "UClbwIWBuGu_SUY2xfyMhJ8Q",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2070,
+   "releases": 7,
+   "firstRelease": 2026,
    "listed": null
   },
   {
@@ -6490,6 +9069,19 @@
    "listed": null
   },
   {
+   "name": "Dumpster Grooves",
+   "channelId": "UClxR56hFySBbzJLRvIG5Q3Q",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "ai_neighborhood"
+   ],
+   "subscribers": 77200,
+   "releases": 25,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "mnaderib",
    "channelId": "UCm-czQYWfBjhnbtYzvGwGVA",
    "score": 5,
@@ -6513,6 +9105,20 @@
    "subscribers": 162,
    "releases": 13,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Jazz Music Zone",
+   "channelId": "UCmFl0kWoKkk9sBXGLRoMKSQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 1620,
+   "releases": 100,
+   "firstRelease": 2023,
    "listed": null
   },
   {
@@ -6556,6 +9162,33 @@
    "listed": null
   },
   {
+   "name": "AYAAAN",
+   "channelId": "UCmQ5SRKywRsyx-f7ByMDJ1w",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2130,
+   "releases": 9,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "ErA Music",
+   "channelId": "UCmSLJrgRQDCBQrOYfKBoPBw",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 2410,
+   "releases": 105,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
    "name": "Serinx",
    "channelId": "UCmVUZ4OTnv0h-kP_Nsv-7oA",
    "score": 5,
@@ -6566,6 +9199,20 @@
    "subscribers": 4210,
    "releases": 18,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Mayor Boss",
+   "channelId": "UCmbBLY8Yo8yfTfvxEQVo68g",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 4870,
+   "releases": 138,
+   "firstRelease": 2016,
    "listed": null
   },
   {
@@ -6660,6 +9307,33 @@
    "listed": null
   },
   {
+   "name": "Colt Walker",
+   "channelId": "UCmuHUa9NuKeBtWHwr8u9Nmw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 38,
+   "releases": 8,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Bella International",
+   "channelId": "UCn84zm-QRVtozup2oYRiFGg",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 26800,
+   "releases": 69,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Brazilian Phonk Ninja Club techno mix",
    "channelId": "UCn8lzx-YhrxZzRFv3V8_LEw",
    "score": 5,
@@ -6670,6 +9344,19 @@
    "subscribers": 3,
    "releases": 15,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Lunelle",
+   "channelId": "UCnBBShkcNtpzfrQ4w-JHwKw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 273,
+   "releases": 9,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -6686,6 +9373,19 @@
    "listed": null
   },
   {
+   "name": "Cutta Boon",
+   "channelId": "UCnHiUPsEcXm0DsOaum9bMVg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1890,
+   "releases": 12,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Ling Tian Ze",
    "channelId": "UCnJ_jmOZ8eDaktpCfSxbDJg",
    "score": 5,
@@ -6695,6 +9395,19 @@
    ],
    "subscribers": 140,
    "releases": 5,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Desiree Carrington",
+   "channelId": "UCnMV34wcslZi9KtTyGJm5hQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 6910,
+   "releases": 8,
    "firstRelease": 2026,
    "listed": null
   },
@@ -6725,6 +9438,46 @@
    "listed": null
   },
   {
+   "name": "Fading Into Silence",
+   "channelId": "UCnoCm_-6Z2KJ1H66TZ1iMfA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1000,
+   "releases": 10,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Sesto",
+   "channelId": "UCnqcipUWEhjZNTkqL-K43hQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 187,
+   "releases": 58,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Gospel Afro para Jesús",
+   "channelId": "UCnqpmh176BqzuJD65JPp9pQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 140000,
+   "releases": 11,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Ayla Reed",
    "channelId": "UCntl98PZ9mRjyF192jyk36g",
    "score": 5,
@@ -6735,6 +9488,20 @@
    "subscribers": 6270,
    "releases": 8,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Chilled Jazz Masters",
+   "channelId": "UCnu1OLvgn6Dqm6SAFu-x0UA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 903,
+   "releases": 110,
+   "firstRelease": 2021,
    "listed": null
   },
   {
@@ -6816,6 +9583,20 @@
    "listed": null
   },
   {
+   "name": "Restaurant Background Music Academy",
+   "channelId": "UCoIITimLcc-5j3HXYuYthDg",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 557,
+   "releases": 100,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
    "name": "MAF Studio",
    "channelId": "UCoIW-6seH3HhTdVv4fk3bIQ",
    "score": 5,
@@ -6878,6 +9659,19 @@
    "subscribers": 637,
    "releases": 14,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "LogoFox",
+   "channelId": "UColNeh4gq2cS5etutGNnSQw",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "many_releases_few_fans"
+   ],
+   "subscribers": 698,
+   "releases": 35,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -6999,6 +9793,34 @@
    "listed": null
   },
   {
+   "name": "Alosa",
+   "channelId": "UCpNqrA5f9DfpVmAEzTk5vUQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 2580,
+   "releases": 100,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Relaxing Piano Jazz Music Ensemble",
+   "channelId": "UCpWXZLCT3U_SGLnkIp55zvQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 241,
+   "releases": 102,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
    "name": "Norah ELa",
    "channelId": "UCpXx34FPw7zOPY0yQKJG5-w",
    "score": 5,
@@ -7094,6 +9916,20 @@
    "listed": null
   },
   {
+   "name": "耳朵便利店",
+   "channelId": "UCqKJCm1lmh34zLpARPmSmFA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 2260,
+   "releases": 103,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
    "name": "No Soul Society",
    "channelId": "UCqVl7X_N_UqVSMjCAr9NQjA",
    "score": 5,
@@ -7104,6 +9940,19 @@
    "subscribers": 11400,
    "releases": 13,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "SU",
+   "channelId": "UCqYMTCHd-GAyfk1aWR_aplQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2080,
+   "releases": 8,
+   "firstRelease": 2026,
    "listed": null
   },
   {
@@ -7120,6 +9969,45 @@
    "listed": null
   },
   {
+   "name": "DenysLVox",
+   "channelId": "UCqdWi4uwWmxssIVpPsSlb0g",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1740,
+   "releases": 7,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Taeme",
+   "channelId": "UCqfxNG9lYcttFr7pfXqc9IQ",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "ai_neighborhood"
+   ],
+   "subscribers": 597,
+   "releases": 5,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "SKILDIR",
+   "channelId": "UCqikSLNabB0L9nT3t88r25A",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 6160,
+   "releases": 15,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Deep Music",
    "channelId": "UCqtyCk0-CDDbiwwGNCizbNg",
    "score": 5,
@@ -7131,6 +10019,19 @@
    "subscribers": 5360,
    "releases": 64,
    "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Ruinelle",
+   "channelId": "UCqvygOYRvTSjFwHqdNE9F7g",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2180,
+   "releases": 12,
+   "firstRelease": 2026,
    "listed": null
   },
   {
@@ -7160,6 +10061,20 @@
    "listed": null
   },
   {
+   "name": "DJ JR Oficial",
+   "channelId": "UCr-T-PpEVGKTgQAb0wFiWng",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 8520,
+   "releases": 100,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
    "name": "Djsiduk V9",
    "channelId": "UCr1wsNL64xPSgFlsxsv02fg",
    "score": 5,
@@ -7170,6 +10085,21 @@
    "subscribers": 98,
    "releases": 9,
    "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Trouble Sleeping Music Universe",
+   "channelId": "UCr3U4I3c4qq_ZxUbuLgzBzw",
+   "score": 6,
+   "signals": [
+    "fast_output",
+    "very_fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 9,
+   "releases": 100,
+   "firstRelease": 2021,
    "listed": null
   },
   {
@@ -7212,6 +10142,19 @@
    "listed": null
   },
   {
+   "name": "Ga Yud",
+   "channelId": "UCrXZrib4J8QztpgVUPaCKjQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 70,
+   "releases": 6,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "ΛFRO VIKING",
    "channelId": "UCr_8k6v1j7GbmZzgkz79H5g",
    "score": 5,
@@ -7222,6 +10165,20 @@
    "subscribers": 544,
    "releases": 15,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "零一九零贰",
+   "channelId": "UCr_JxXYufMt3-QqzxuJKXpg",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 11600,
+   "releases": 100,
+   "firstRelease": 2023,
    "listed": null
   },
   {
@@ -7277,6 +10234,19 @@
    "listed": null
   },
   {
+   "name": "Brandt im Rausch",
+   "channelId": "UCrjsiJIzVILc6kWqaHacGuw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 371,
+   "releases": 10,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Legends of Rock & Blues",
    "channelId": "UCrriLuA26En5QTGuoJowdkQ",
    "score": 5,
@@ -7299,6 +10269,33 @@
    ],
    "subscribers": 100,
    "releases": 8,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "韩小欠",
+   "channelId": "UCryeuORD6ndY0qZUVz3R0hQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 11700,
+   "releases": 106,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "AerisNox",
+   "channelId": "UCs0OYJXtXVRwPHhSrSnAngQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2410,
+   "releases": 6,
    "firstRelease": 2025,
    "listed": null
   },
@@ -7331,6 +10328,20 @@
    "listed": null
   },
   {
+   "name": "Lil Ash",
+   "channelId": "UCs8C8dwNQSdb1PSOPwU2_nQ",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 1950,
+   "releases": 37,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Calming Sleep Music for Kids",
    "channelId": "UCsCTm9QCGutpahJtdTS5Kvw",
    "score": 5,
@@ -7340,6 +10351,19 @@
    ],
    "subscribers": 381,
    "releases": 18,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "夜のジャズ - 懐メロが灯す記憶",
+   "channelId": "UCsEE6EYWbQs9IrxSngU5xmg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 9840,
+   "releases": 17,
    "firstRelease": 2025,
    "listed": null
   },
@@ -7354,6 +10378,19 @@
    "subscribers": 258,
    "releases": 5,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Stray Dogs Orchestra",
+   "channelId": "UCsMP4PPRjgw-BCkApLrQOBg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 64800,
+   "releases": 5,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -7606,6 +10643,32 @@
    "listed": null
   },
   {
+   "name": "Velvet Hour Jazz",
+   "channelId": "UCuMpt9I1PP0R6LGwYs1YXew",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1490,
+   "releases": 9,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "True Voices",
+   "channelId": "UCuQzvFf2pX4_6EhwE0xB2ww",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1600,
+   "releases": 6,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Rowan Music",
    "channelId": "UCuTLtFsARWot-wGaXQ_F0jg",
    "score": 5,
@@ -7617,6 +10680,19 @@
    "subscribers": 2080,
    "releases": 53,
    "firstRelease": 2020,
+   "listed": null
+  },
+  {
+   "name": "Savannah Raine",
+   "channelId": "UCuW7LU5Q10bKC83uQrPLBVQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 2860,
+   "releases": 13,
+   "firstRelease": 2026,
    "listed": null
   },
   {
@@ -7682,6 +10758,20 @@
    "subscribers": 223,
    "releases": 7,
    "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "BRUX",
+   "channelId": "UCuwiba02aOvCXkTfZFEJ4bQ",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 11300,
+   "releases": 35,
+   "firstRelease": 2018,
    "listed": null
   },
   {
@@ -7779,6 +10869,32 @@
    "listed": null
   },
   {
+   "name": "Jared Krumm",
+   "channelId": "UCvAQbZmtfRIUWe9aetnfdBQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 321,
+   "releases": 17,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Orvak",
+   "channelId": "UCvBKwsgMtqLY1ezy4Q9YuMw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 37200,
+   "releases": 22,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Nordic Viking Music",
    "channelId": "UCvHUCoM0gw8y7-TZuM_dvUg",
    "score": 5,
@@ -7818,6 +10934,19 @@
    "listed": null
   },
   {
+   "name": "Hamex Soul",
+   "channelId": "UCvN2GJ7z_Uq1ES-ge3tzDvg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1400,
+   "releases": 10,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Rpena11",
    "channelId": "UCvNX8QffAoCSP0xsiBEkfQw",
    "score": 5,
@@ -7842,6 +10971,20 @@
    "subscribers": 121,
    "releases": 110,
    "firstRelease": 2021,
+   "listed": null
+  },
+  {
+   "name": "Restaurant Music",
+   "channelId": "UCvU9i0KDxSu66oz9w22dzfQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 2620,
+   "releases": 100,
+   "firstRelease": 2023,
    "listed": null
   },
   {
@@ -7912,6 +11055,60 @@
    "listed": null
   },
   {
+   "name": "D33",
+   "channelId": "UCw-0E6CWOQNUKqiUV_JJazg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 899,
+   "releases": 11,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Raster Dust",
+   "channelId": "UCw0ImHgDyV7wPJaznkwfaxQ",
+   "score": 6,
+   "signals": [
+    "all_recent",
+    "fast_output"
+   ],
+   "subscribers": 25200,
+   "releases": 91,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
+   "name": "Lilith Knox",
+   "channelId": "UCw7W88qC5hS1Uga_b3DT3KA",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 4240,
+   "releases": 17,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Relaxing Music for Bath Time",
+   "channelId": "UCw7hHqf4HdndoNB6U-73dMw",
+   "score": 6,
+   "signals": [
+    "fast_output",
+    "very_fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 794,
+   "releases": 100,
+   "firstRelease": 2023,
+   "listed": null
+  },
+  {
    "name": "Nature In The World",
    "channelId": "UCwEFBc38vb8k0jB_hTxq8JA",
    "score": 5,
@@ -7964,6 +11161,20 @@
    "listed": null
   },
   {
+   "name": "Shultzy Beats",
+   "channelId": "UCwaBHgbV5dMUMsEu-zJoyuQ",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 13200,
+   "releases": 102,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "ScarlettLaw",
    "channelId": "UCwfqpvdqPBBNCFt9MRfussQ",
    "score": 5,
@@ -7972,6 +11183,19 @@
     "no_description"
    ],
    "subscribers": 376,
+   "releases": 9,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "REEMARI",
+   "channelId": "UCwg9-rrSHX2zh_mucsRf7iw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 635,
    "releases": 9,
    "firstRelease": 2026,
    "listed": null
@@ -8004,6 +11228,19 @@
    "listed": null
   },
   {
+   "name": "Jazzy Soul Music",
+   "channelId": "UCx3LqSVJkOObb4-V92nb9cg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 30400,
+   "releases": 14,
+   "firstRelease": 2025,
+   "listed": null
+  },
+  {
    "name": "Lafortenoir",
    "channelId": "UCxA0tTtgG_ffROVi0uTSkKw",
    "score": 5,
@@ -8013,6 +11250,19 @@
    ],
    "subscribers": 1410,
    "releases": 12,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Malia",
+   "channelId": "UCxAcxXcblxmjzg6LuwZlbRg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1020,
+   "releases": 17,
    "firstRelease": 2026,
    "listed": null
   },
@@ -8041,6 +11291,19 @@
    "subscribers": 8070,
    "releases": 103,
    "firstRelease": 2024,
+   "listed": null
+  },
+  {
+   "name": "Fallen Doom",
+   "channelId": "UCxRVdffO8W619GyR5-ccO7A",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 168,
+   "releases": 13,
+   "firstRelease": 2025,
    "listed": null
   },
   {
@@ -8124,6 +11387,20 @@
    "listed": null
   },
   {
+   "name": "Coffee Shop Jazz",
+   "channelId": "UCxzzXz8NsyCUxlQOo-zLsXA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 2460,
+   "releases": 129,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
    "name": "RR Aresa V8",
    "channelId": "UCy48qcpXXwMzXPXPuf7Bx5A",
    "score": 5,
@@ -8188,6 +11465,33 @@
    ],
    "subscribers": 1520,
    "releases": 13,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Music For Sleeping Ensemble",
+   "channelId": "UCyOouoikrlipH_3fUdipW4g",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 25,
+   "releases": 101,
+   "firstRelease": 2022,
+   "listed": null
+  },
+  {
+   "name": "Shaman Drive",
+   "channelId": "UCyQcFc0p05G5hlUwqMy18Kg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 1860,
+   "releases": 11,
    "firstRelease": 2026,
    "listed": null
   },
@@ -8377,6 +11681,20 @@
    "listed": null
   },
   {
+   "name": "Dormir",
+   "channelId": "UCzG5kBdxmiezTEPJ58VPJHA",
+   "score": 5,
+   "signals": [
+    "fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 4500,
+   "releases": 103,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Mercy N' Fire",
    "channelId": "UCzMEFwBbe1OfKetcWnPQdIQ",
    "score": 5,
@@ -8390,6 +11708,32 @@
    "listed": null
   },
   {
+   "name": "Seelenwende",
+   "channelId": "UCzNB5jC144FEnd184jJJBpg",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 13300,
+   "releases": 16,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "BERTHONY EXIS",
+   "channelId": "UCzVL9ftCYaDd8VZBfZweWIw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 366,
+   "releases": 16,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
    "name": "Dark Ambient Meditation",
    "channelId": "UCzWNGgsRWNMe06F77nc7pNw",
    "score": 5,
@@ -8399,6 +11743,19 @@
    ],
    "subscribers": 2,
    "releases": 8,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Larek James",
+   "channelId": "UCzbWy-BPDYxmZq6Q5GDoRnw",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 260,
+   "releases": 10,
    "firstRelease": 2026,
    "listed": null
   },
