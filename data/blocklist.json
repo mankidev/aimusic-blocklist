@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-24",
- "count": 7060,
+ "updated": "2026-11-25",
+ "count": 7062,
  "artists": [
   {
    "name": "Techn∅ V∅id",
@@ -17602,6 +17602,23 @@
    "releases": 37,
    "firstRelease": 2026,
    "listed": "2026-11-20"
+  },
+  {
+   "name": "ARKABI",
+   "channelId": "UC9z7Ro_IphjEoP5MGqYTWkA",
+   "score": 12,
+   "signals": [
+    "all_recent",
+    "fast_output",
+    "very_fast_output",
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 3120,
+   "releases": 100,
+   "firstRelease": 2025,
+   "listed": "2026-11-25"
   },
   {
    "name": "Vahid Beats",
@@ -47380,6 +47397,22 @@
    "releases": 100,
    "firstRelease": 2026,
    "listed": "2026-11-19"
+  },
+  {
+   "name": "Mireille8920",
+   "channelId": "UCRgq0fLSFEjEQlaQDVCc-_w",
+   "score": 13,
+   "signals": [
+    "disclosed",
+    "all_recent",
+    "fast_output",
+    "very_fast_output",
+    "many_releases_few_fans"
+   ],
+   "subscribers": 364,
+   "releases": 104,
+   "firstRelease": 2025,
+   "listed": "2026-11-25"
   },
   {
    "name": "Vantawave",

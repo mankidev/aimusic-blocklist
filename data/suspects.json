@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-24",
- "count": 2876,
+ "updated": "2026-11-25",
+ "count": 2879,
  "artists": [
   {
    "name": "王樾安",
@@ -7760,6 +7760,21 @@
    "listed": null
   },
   {
+   "name": "anakerr",
+   "channelId": "UCC7NA0afBtIwcroOhbUQKHQ",
+   "score": 6,
+   "signals": [
+    "fast_output",
+    "very_fast_output",
+    "many_releases_few_fans",
+    "no_description"
+   ],
+   "subscribers": 1360,
+   "releases": 140,
+   "firstRelease": 2024,
+   "listed": null
+  },
+  {
    "name": "Nocturne Veil",
    "channelId": "UCC7yopK030pyNRJk7s8iTUw",
    "score": 5,
@@ -13560,6 +13575,20 @@
    "listed": null
   },
   {
+   "name": "Dante",
+   "channelId": "UCLJJiKTLgGMDafKa57CYy2w",
+   "score": 5,
+   "signals": [
+    "many_releases_few_fans",
+    "no_description",
+    "ai_neighborhood"
+   ],
+   "subscribers": 1010,
+   "releases": 118,
+   "firstRelease": 2004,
+   "listed": null
+  },
+  {
    "name": "Nhlaka Anointed",
    "channelId": "UCLK-sOXT3zrM4lroceDcXGA",
    "score": 5,
@@ -15614,6 +15643,19 @@
    ],
    "subscribers": 4070,
    "releases": 8,
+   "firstRelease": 2026,
+   "listed": null
+  },
+  {
+   "name": "Redh1ll",
+   "channelId": "UCOoddoseIIY6I900hpuWkVQ",
+   "score": 5,
+   "signals": [
+    "all_recent",
+    "no_description"
+   ],
+   "subscribers": 3830,
+   "releases": 12,
    "firstRelease": 2026,
    "listed": null
   },
